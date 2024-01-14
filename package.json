@@ -1,6 +1,6 @@
 {
   "name": "web-vite-vue-v2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "files": ["dist"],
   "main": "./dist/my-lib.cjs",
